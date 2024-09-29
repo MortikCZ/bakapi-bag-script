@@ -26,3 +26,9 @@ Aplikační software
 
 Přeji krásný den :)
 ```
+## Changelog
+- [**1.1**](https://github.com/MortikCZ/bakapi-bag-script/releases/tag/v1.1)
+    - V případě že je dnešní den pátek, sobota či neděle script vypíše co si vyndat na pondělí.
+- [**1.0**](https://github.com/MortikCZ/bakapi-bag-script/releases/tag/v1.0)
+    - První verze scriptu.
+    
