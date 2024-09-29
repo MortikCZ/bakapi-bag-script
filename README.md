@@ -14,7 +14,7 @@ BAKALARI_PASSWORD = 'password'
 - `BAKALARI_USERNAME` je vaše uživatelské jméno.
 - `BAKALARI_PASSWORD` je vaše heslo.
 4. Spusťte script pomocí `python app.py`, takhle by měl vypadat výstup:
-```python
+```plaintext
 Dnešní datum: 24.09.
 
 Z tašky si vyndej:
@@ -27,7 +27,7 @@ Aplikační software
 Přeji krásný den :)
 ```
 ## Changelog
-- [**1.1**](https://github.com/MortikCZ/bakapi-bag-script/releases/tag/v1.1)
+- [**1.1**](https://github.com/MortikCZ/bakapi-bag-script/releases/tag/v2.0)
     - V případě že je dnešní den pátek, sobota či neděle script vypíše co si vyndat na pondělí.
 - [**1.0**](https://github.com/MortikCZ/bakapi-bag-script/releases/tag/v1.0)
     - První verze scriptu.
